@@ -18,11 +18,11 @@ Understand study habits, lifestyle patterns, and engagement
 
 Compare performance across grades, gender, and AI usage levels
 
-🗂 Dataset Description
+## 🗂 Dataset Description
 
 The dataset contains student-level academic, behavioral, and AI usage data.
 
-Key Columns
+ ## Key Columns
 Category	Fields
 Student Info	student_id, age, gender, grade_level
 Academic Performance	final_score, last_exam_score, assignment_scores_avg, passed, performance_category
@@ -31,7 +31,7 @@ AI Usage	uses_ai, ai_tools_used, ai_usage_time_minutes, ai_usage_purpose, ai_pro
 AI Risk & Ethics	ai_dependency_score, ai_ethics_score, ai_generated_content_percentage
 Study & Lifestyle	study_hours_per_day, study_consistency_index, sleep_hours, social_media_hours, tutoring_hours
 Improvement Metrics	improvement_rate, Score per Study Hour, Pass %
-📈 Dashboard Pages & Insights
+## 📈 Dashboard Pages & Insights
 1️⃣ Student Performance Overview
 
 Purpose: High-level snapshot of academic outcomes.
@@ -53,6 +53,8 @@ Insights:
 Majority of students fall under Average performance band
 
 Higher AI usage correlates with moderate score improvement
+<img width="937" height="645" alt="image" src="https://github.com/user-attachments/assets/8bf12ca4-5493-4a77-b417-97fbde7311db" />
+
 
 2️⃣ AI Impact
 
@@ -74,6 +76,8 @@ AI is mainly used for Exam Preparation and Coding
 
 High AI usage shows mixed impact on participation
 
+<img width="1102" height="642" alt="image" src="https://github.com/user-attachments/assets/dbe94329-71f9-46ea-8d46-2f3483209245" />
+
 3️⃣ AI Ethics
 
 Purpose: Identify ethical awareness and dependency risks.
@@ -94,6 +98,8 @@ High AI dependency observed among frequent users
 
 Ethical scores vary significantly across usage patterns
 
+<img width="1101" height="647" alt="image" src="https://github.com/user-attachments/assets/47f6695b-3e99-42fd-83c9-bf3ee7a06d05" />
+
 4️⃣ Study and Lifestyle
 
 Purpose: Analyze how habits influence academic outcomes.
@@ -113,8 +119,12 @@ Insights:
 Consistent study habits lead to better performance
 
 Excessive social media hours negatively impact scores
+<img width="1101" height="647" alt="image" src="https://github.com/user-attachments/assets/05c24995-7b1d-422d-befd-4664559e4440" />
+<img width="1087" height="632" alt="image" src="https://github.com/user-attachments/assets/47842d87-5246-4482-93ac-160e09f388aa" />
+<img width="1112" height="657" alt="image" src="https://github.com/user-attachments/assets/04b51933-8b36-47ba-a955-61cc12b22221" />
+<img width="1110" height="638" alt="image" src="https://github.com/user-attachments/assets/15973102-d92c-4a56-b63e-9f314bc583d3" />
 
-🛠 Tools & Technologies
+## 🛠 Tools & Technologies
 
 Power BI – Data modeling & dashboard creation
 
@@ -124,7 +134,7 @@ Excel / CSV – Data source
 
 GitHub – Version control & project sharing
 
-📊 Key Measures (DAX Examples)
+## 📊 Key Measures (DAX Examples)
 
 Average Final Score
 
@@ -136,7 +146,7 @@ AI Dependency Risk Level
 
 Performance Band classification
 
-🔍 Key Findings
+## 🔍 Key Findings
 
 Moderate AI usage improves learning efficiency
 
@@ -146,7 +156,7 @@ Balanced study hours and lifestyle are critical for success
 
 AI should be used as a support tool, not a replacement for learning
 
-🚀 How to Use
+## 🚀 How to Use
 
 Download the .pbix file from this repository
 
@@ -156,12 +166,12 @@ Interact using slicers (Grade, Gender, AI Tool)
 
 Explore insights across different dashboard pages
 
-📌 Conclusion
+## 📌 Conclusion
 
 This project highlights that AI can enhance academic performance when used responsibly, but excessive dependence may lead to ethical and learning challenges.
 Educational institutions should promote ethical AI usage and balanced study practices.
 
-👤 Author
+## 👤 Author
 
 Dally DS
 Aspiring Data Analyst | Power BI | SQL | Data Visualization
